@@ -1,4 +1,5 @@
-require(['jquery'],
+require(['jquery', 'angular'],
 	function () {
+		debugger
 	}
 );

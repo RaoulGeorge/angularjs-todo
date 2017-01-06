@@ -3,7 +3,8 @@ var require = {
     paths: {
         'jquery': 'lib/jquery-1.10.2',
         '_': 'lib/underscore',
-        'backbone': 'lib/backbone'
+        'backbone': 'lib/backbone',
+        'angular': 'lib/angular'
 
     },
     shim: {
